@@ -1,5 +1,6 @@
 #<h1 align="center">Hi 👋, I'm Ashutosh sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" width="400" src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/learn-coding-online-for-free.webp" alt="">
 
 - 🔭 I’m currently working on **Website and Internship projects**
 
